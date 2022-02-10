@@ -1200,7 +1200,7 @@ section {
 
 @media (min-width: 990px){
   .logoslide{
-    transform: translate(1350px);
+    transform: translate(800px);
   }
 
   #pslide{
@@ -1225,7 +1225,7 @@ section {
 }
 @media (max-width: 500px){
   .logoslide{
-    transform: translate(-7px);
+    transform: translate(px);
   }
   
 }
