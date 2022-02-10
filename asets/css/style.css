@@ -1223,8 +1223,10 @@ section {
 
   
 }
-
-.logoslide{
-  transform: translate(-57px);
+@media (max-width: 500px){
+  .logoslide{
+    transform: translate(-7px);
+  }
+  
 }
 
