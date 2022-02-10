@@ -1225,8 +1225,8 @@ section {
 }
 @media (max-width: 500px){
   .logoimg{
-    transform: translate(40px);
-    height: 60px;
+    transform: translate(20px);
+    height: 40px;
   }
   
   .logoslide{
